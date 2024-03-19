@@ -1,7 +1,9 @@
 Projeto feito durante um evento feito pela Rocketseat.
 
 Será necessário fazer algumas instalações para conseguir rodar e visualizar o projeto:
+
 1 - Abra o terminal e vá até a pasta que contenha "UDEMY\MEUS_PROJETOS\Next-Level-Week-Ecoleta\web>" e insira o comando: **npm install**
+
 2 - No mesmo local no terminal, insira o comando **npm start**
 
 Abaixo deixarei algumas imagens para mostrar como ficou o projeto:
